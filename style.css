@@ -1,12 +1,8 @@
-body {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    color: lightsteelblue;
-    background-color: white
-  }
-  img {
+
+
+  .pic2{
+    border-radius: 50%;
+    width: auto;
+    height: 600px;
     background-size: cover;
-    background-position: center;
-    width: 500px;
-    height: 300px;
-  }
+}
